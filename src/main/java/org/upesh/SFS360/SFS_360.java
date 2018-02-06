@@ -41,7 +41,7 @@ public class SFS_360 extends FuseFilesystemAdapterFull
 	private final static String mountPoint = f_mountPoint.getAbsolutePath(); //absolute path of mountPoint
 	private final String nowFolder = "/1-NOW";
 	private final String tagsFolder = "/2-TAGs";
-	private final String mirroredFolder = "./target/kamranMirrored";
+	private final String mirroredFolder = "./target/mirrorredFolder";
 	private Date datePreviousFileAccessed = new Date();
 	Map<String, String> mapSymLink = new HashMap<String, String>(); //hold path of symLink and Target path of symLink, it helps in readLink() function
 	
