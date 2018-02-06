@@ -3,7 +3,7 @@
 
 -----------------------------
 
-Java Fuse Mirror File System is developed using FUSE-JNA (FUSE Java Binding). 
+360 Semantic File System is developed using FUSE-JNA (FUSE Java Binding). 
 
 Fuse-JNA is downloadable from https://github.com/EtiennePerot/fuse-jna. 
 
