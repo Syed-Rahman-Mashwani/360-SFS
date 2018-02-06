@@ -51,7 +51,7 @@ import org.upesh.SFS360.NMEA.GPSPosition;
 
 public class Core360 
 {
-	static final String inputFileName  = "./target/resources/kamran.owl";
+	static final String inputFileName  = "./target/resources/sfs_Ontology.owl";
 	static final String baseURI = "http://www.semanticweb.org/administrator/ontologies/2014/2/untitled-ontology-5";
 	String currentLocation= "";
 	
