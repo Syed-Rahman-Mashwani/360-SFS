@@ -14,7 +14,7 @@ How To Run it (in Eclipse)
 -------------------------
 Open it  
 
-modify first these two variable in SFS_360.java files as per your settings:
+modify these two variable in SFS_360.java files as per your settings:
 
 e.g.
 
