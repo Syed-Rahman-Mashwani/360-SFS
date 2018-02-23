@@ -37,3 +37,15 @@ and RUN
 That’s it 
 
 
+
+--------------------------
+
+Compatibility
+-------------------------
+
+As we used FUSE API, therefore its compatibility is only with Linux based OS.
+
+We have test it on  "Ubuntu 14" 
+
+
+
