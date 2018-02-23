@@ -54,5 +54,5 @@ We have tested 360-SFS on "Ubuntu 14"
 Contact/Feedback
 -------------------------
 
-syed.rahman@uop.edu.pk
+syed.rahman[--remove--this---]@uop.edu.pk
 
