@@ -1,9 +1,9 @@
-# 360-SFS (Prototype)
+# 360ᵒ-SFS (Prototype)
 
 
 -----------------------------
 
-360 Semantic File System is developed using FUSE-JNA (FUSE Java Binding). 
+360ᵒ Semantic File System is developed using FUSE-JNA (FUSE Java Binding). 
 
 Fuse-JNA is downloadable from https://github.com/EtiennePerot/fuse-jna. 
 
@@ -45,7 +45,7 @@ Compatibility
 
 As we used FUSE API, therefore its compatibility is only with Linux based operating systems.
 
-We have tested 360-SFS on "Ubuntu 14" 
+We have tested 360ᵒ-SFS on "Ubuntu 14" 
 
 
 
