@@ -22,7 +22,7 @@ e.g.
 	private final String mirroredFolder = "./target/mirrorredFolder";  //set the path of a folder which you want to be mirrored.	
 
 
-modify line no. 54 in Core360.java file and give correct path of the ontology file (sfs_Ontology.owl) as per you setings
+modify line no. 54 in Core360.java file and give correct path of the ontology file (sfs_Ontology.owl) as per your setings
 
 e.g.
 
