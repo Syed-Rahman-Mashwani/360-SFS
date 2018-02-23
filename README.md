@@ -21,6 +21,14 @@ e.g.
 	static File f_mountPoint = new File ("./target/360FS"); // set mount point (path to a blank folder)
 	private final String mirroredFolder = "./target/mirrorredFolder";  //set the path of a folder which you want to be mirrored.	
 
+
+modify line no. 54 in Core360.java file and give correct path of the ontology file (sfs_Ontology.owl) as per you setings
+
+e.g.
+
+	static final String inputFileName = "./target/resources/sfs_Ontology.owl"; //	path to ontology file
+
+
 	
 Import FUSE-JNA Library
 
